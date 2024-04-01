@@ -16,73 +16,27 @@ Una app que te muestra la mejor ruta para viajar por tu ciudad en bicicleta, usa
 
 ## ¿Cuál fue el proceso de trabajo?
 
-### Realicé un research exhaustivo para investigar acerca de un problema y convertirlo en una idea de aplicación.
 
-▪️ Metodologías de diseño y UX research, definiendo el problema, objetivo y solución
+▪️ Realicé un research exhaustivo para investigar acerca de un problema y convertirlo en una idea de aplicación.
 
-▪️ User persona y benchmarking competencia.
+▪️ Diseñé y creé un prototipo de aplicación siguiendo la metodología mobile first.
 
-▪️ Entrevistas cualitativas.
+▪️ Definí las funcionalidades principales de mi idea, siguiendo el concepto de Producto Mínimo Viable (MVP)
 
-▪️ POV & MVP.
+▪️ Identifiqué y definí un público objetivo o usuario para el desarrollo del prototipo
 
-▪️ Evaluación heurística.
+▪️ Utilicé herramientas de prototipado actuales y demandadas en el ámbito laboral.
 
-### Diseñé y creé un prototipo de aplicación siguiendo la metodología mobile first. 
+▪️ Validé mi proyecto mediante diversas metodologías y actividades para garantizar su viabilidad.
 
-▪️ Arquitectura de información.
+▪️ Adquirí habilidades en metodologías ágiles para la gestión y desarrollo de proyectos.
 
-▪️ Userflows.
+▪️ Fundamenté las decisiones de diseño de mi proyecto de manera clara y fundamentada.
 
-▪️ Wireframe a mano.
+▪️ Apliqué metodologías de diseño para mi proyecto, incorporando conocimientos de disciplinas proyectuales.
 
-▪️ Wireframe digital.
+▪️ Integré conocimientos de disciplinas proyectuales para mejorar la calidad y efectividad de mi proyecto.
 
-▪️ Patrones de diseño & contenidos.
-
-▪️ Atomic Design.
-
-▪️ Sistema de grilla.
-
-▪️ UI Kits & Moodboard.
-
-▪️ Motion UI.
-
-### Definí las funcionalidades principales de mi idea, siguiendo el concepto de Producto Mínimo Viable (MVP).
-
-▪️ User persona y benchmarking competencia.
-
-▪️ POV & MVP.
-
-▪️ Prototipo funcional y métricas UX.
-
-### Identifiqué y definí un público objetivo o usuario para el desarrollo del prototipo.
-
-▪️ User persona y benchmarking competencia
-
-### Utilicé herramientas de prototipado actuales y demandadas en el ámbito laboral.
-
-▪️ Wireframe digital.
-
-▪️ Prototipo funcional y métricas UX.
-
-▪️ UI Kits & Moodboard.
-
-### Validé mi proyecto mediante diversas metodologías y actividades para garantizar su viabilidad.
-
-▪️ Evaluación heurística.
-
-▪️ Pruebas de usabilidad.
-
-▪️ Workshop: pruebas de usabilidad.
-
-### Adquirí habilidades en metodologías ágiles para la gestión y desarrollo de proyectos.
-
-▪️ Metodologías de diseño y UX research.
-
-▪️ Workshop: presentación de portafolio + reporte UX.
-
-▪️ Presentación portafolio del proyecto.
 
 ## Workshop: presentación de portafolio + reporte UX
 
