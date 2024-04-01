@@ -1,4 +1,4 @@
-# <h1 align="center"> <img src="https://raw.githubusercontent.com/MayteLlerena/Ruta-Segura/main/RutasSeguras.logo.png" width="100"></h1>
+# <h1 align="center"> <img src="https://raw.githubusercontent.com/MayteLlerena/Ruta-Segura/main/RutasSeguras.logo.png" width="145"></h1>
 
 ## Objetivo del proyecto
 
