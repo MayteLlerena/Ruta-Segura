@@ -86,9 +86,15 @@ Una app que te muestra la mejor ruta para viajar por tu ciudad en bicicleta, usa
 
 ## Workshop: presentación de portafolio + reporte UX
 
-![Ver Prototipo en Figma](https://www.figma.com/proto/xekLmHggkbcmF29MOSrBw0/Animaci%C3%B3n-%7C-Llerena-Castro-Cindy-Jhoselyn-Mayte?type=design&node-id=1-184&t=wYbMhEAYx381ACJC-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A184&mode=design)
+<picture> <img align="center" ![Intro](https://raw.githubusercontent.com/MayteLlerena/Ruta-Segura/main/Intro.png) width = 400px></picture>
 
-<iframe width="800" height="600" src="https://www.figma.com/proto/xekLmHggkbcmF29MOSrBw0/Animaci%C3%B3n-%7C-Llerena-Castro-Cindy-Jhoselyn-Mayte?type=design&node-id=1-184&t=wYbMhEAYx381ACJC-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A184&mode=design" frameborder="0" allowfullscreen></iframe>
+[Ver Prototipo en Figma](https://www.figma.com/proto/xekLmHggkbcmF29MOSrBw0/Animaci%C3%B3n-%7C-Llerena-Castro-Cindy-Jhoselyn-Mayte?type=design&node-id=1-184&t=wYbMhEAYx381ACJC-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A184&mode=design)
+
+![]()
+
+
+
+
 
 
 
