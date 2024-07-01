@@ -1,4 +1,6 @@
-# <h1 align="center"> <img src="https://raw.githubusercontent.com/MayteLlerena/Ruta-Segura/main/RutasSeguras.logo.png" width="145"></h1>
+# <h1 align="center"> <img src="https://raw.githubusercontent.com/MayteLlerena/Ruta-Segura/main/RutasSeguras.logo.png" width="145"> </h1> 
+
+<h2 align="center"> Diseño de una app nativa, desde la investigación hasta el prototipo </h2> 
 
 ## Objetivo del proyecto
 
@@ -17,26 +19,17 @@ Una app que te muestra la mejor ruta para viajar por tu ciudad en bicicleta, usa
 ## ¿Cuál fue el proceso de trabajo?
 
 
-▪️ Realicé un research exhaustivo para investigar acerca de un problema y convertirlo en una idea de aplicación.
+▪️ Realicé entrevistas y encuestas para identificar necesidades, comportamientos y preferencias, desarrollando user personas y escenarios de uso basados en los datos recopilados.
 
 ▪️ Diseñé y creé un prototipo de aplicación siguiendo la metodología mobile first.
 
-▪️ Definí las funcionalidades principales de mi idea, siguiendo el concepto de Producto Mínimo Viable (MVP)
+▪️ Conduje sesiones de prueba de usabilidad y evaluaciones heurísticas para validar los diseños, analizando los resultados para identificar mejoras.
 
-▪️ Identifiqué y definí un público objetivo o usuario para el desarrollo del prototipo
+▪️ Validé y ajusté los diseños basados en insights obtenidos, colaborando con el equipo de desarrollo para asegurar una correcta implementación.
 
-▪️ Utilicé herramientas de prototipado actuales y demandadas en el ámbito laboral.
-
-▪️ Validé mi proyecto mediante diversas metodologías y actividades para garantizar su viabilidad.
+▪️ Documenté y compartí hallazgos y decisiones de diseño con el equipo, asegurando la integración efectiva de los insights en el desarrollo del producto.
 
 ▪️ Adquirí habilidades en metodologías ágiles para la gestión y desarrollo de proyectos.
-
-▪️ Fundamenté las decisiones de diseño de mi proyecto de manera clara y fundamentada.
-
-▪️ Apliqué metodologías de diseño para mi proyecto, incorporando conocimientos de disciplinas proyectuales.
-
-▪️ Integré conocimientos de disciplinas proyectuales para mejorar la calidad y efectividad de mi proyecto.
-
 
 ## Workshop: presentación de portafolio + reporte UX
 
