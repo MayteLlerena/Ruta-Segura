@@ -1,6 +1,6 @@
 # <h1 align="center"> <img src="https://raw.githubusercontent.com/MayteLlerena/Ruta-Segura/main/RutasSeguras.logo.png" width="145"> </h1> 
 
-<h2 align="center"> Diseño de una app nativa, desde la investigación hasta el prototipo </h2> 
+<h1 align="center"> Diseño de una app nativa siguiendo todas las etapas del proceso, desde la investigación hasta el prototipo, para crear una solución digital </h1> 
 
 ## Objetivo del proyecto
 
