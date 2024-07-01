@@ -27,7 +27,7 @@ Una app que te muestra la mejor ruta para viajar por tu ciudad en bicicleta, usa
 
 ▪️ Validé y ajusté los diseños basados en insights obtenidos, colaborando con el equipo de desarrollo para asegurar una correcta implementación.
 
-▪️ Documenté y compartí hallazgos y decisiones de diseño con el equipo, asegurando la integración efectiva de los insights en el desarrollo del producto.
+▪️ Documenté, compartí hallazgos y decisiones de diseño con el equipo, asegurando la integración efectiva de los insights en el desarrollo del producto.
 
 ▪️ Adquirí habilidades en metodologías ágiles para la gestión y desarrollo de proyectos.
 
